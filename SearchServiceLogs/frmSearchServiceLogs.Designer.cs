@@ -116,7 +116,7 @@
             this.groupBox2.Size = new System.Drawing.Size(497, 210);
             this.groupBox2.TabIndex = 7;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Log Files Search Criteria";
+            this.groupBox2.Text = "Log File Search Criteria";
             // 
             // btnSetOutputFilePath
             // 

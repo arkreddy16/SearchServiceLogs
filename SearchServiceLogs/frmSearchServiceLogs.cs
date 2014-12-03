@@ -84,7 +84,7 @@ namespace SearchServiceLogs
                                         }
                                         catch (Exception Ex)
                                         {
-                                            MessageBox.Show("There was an error occurred while processing Log Files for client :-" + subDirectory.Name + "  File Name:-" + file.Name, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                                            MessageBox.Show("There was an error while processing Log Files for client :-" + subDirectory.Name + "  File Name:-" + file.Name, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                                         }
                                     }
                                 }

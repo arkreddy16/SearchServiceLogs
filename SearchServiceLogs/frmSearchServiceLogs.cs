@@ -92,7 +92,7 @@ namespace SearchServiceLogs
                             sbSearchLinePerClient.Clear();
                         }
                         ////Add a Blank line after Each Client
-                        //dtSearchResults.Rows.Add(string.Empty, string.Empty, string.Empty, string.Empty);/Test change
+                        //dtSearchResults.Rows.Add(string.Empty, string.Empty, string.Empty, string.Empty);/Test
 
                         //Write to File after per Client reading
                         if (chkExportResults.Checked && !_ExportfileDirectory.Equals(string.Empty))

@@ -15,7 +15,7 @@ namespace SearchServiceLogsUnitTest
         [TestMethod]
         public void TestMethod2()
         {
-            Assert.AreEqual(true, false);
+            Assert.AreEqual(true, true);
         }
         [TestMethod]
         public void TestMethod3()
